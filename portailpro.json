@@ -1,8 +1,10 @@
 {
-  "version": "1.0",
-  "url": "https://dub.sh/ppro10",
+  "version": "1.1",
+  "url": "https://dub.sh/ppro11",
   "changelog": [
-    "- Nouveau raccourci",
+    "- Ajout d'un Favori accesible en un clic",
+    "- Choix du département directement dans l'application",
+    "- Plus besoin de choisir son département à chaque mise à jour\n",
     "Profitez-bien de la dernière version de votre raccourci préféré !"
   ]
 }

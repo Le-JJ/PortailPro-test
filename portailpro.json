@@ -1,10 +1,12 @@
 {
-  "version": "1.1",
-  "url": "https://dub.sh/ppro11",
+  "version": "1.1.1",
+  "url": "https://dub.sh/ppro111",
   "changelog": [
-    "- Ajout d'un Favori accesible en un clic",
-    "- Choix du département directement dans l'application",
-    "- Plus besoin de choisir son département à chaque mise à jour\n",
+    "- Ajout du raccourci à l’écran d’accueil",
+    "- Meilleure synchronisation des réglages entre raccourcis",
+    "- Minimum de 5 jours entre deux recherches de mise à jour (auparavant à chaque lancement). Possibilité de la forcer dans les Réglages",
+    "- Corrections mineures",
+    "- Nouveau raccourci : Calendrier de la paie. Voir \"Mes autres raccourcis\"\n",
     "Profitez-bien de la dernière version de votre raccourci préféré !"
   ]
 }

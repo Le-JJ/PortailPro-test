@@ -1,12 +1,12 @@
 {
-  "version": "1.1.1",
-  "url": "https://dub.sh/ppro111",
-  "changelog": [
-    "- Ajout du raccourci à l’écran d’accueil",
-    "- Meilleure synchronisation des réglages entre raccourcis",
-    "- Minimum de 5 jours entre deux recherches de mise à jour (auparavant à chaque lancement). Possibilité de la forcer dans les Réglages",
-    "- Corrections mineures",
-    "- Nouveau raccourci : Calendrier de la paie. Voir \"Mes autres raccourcis\"\n",
+  "version": "1.1.4",
+  "url": "https://dub.sh/ppro114",
+    "• Correction d'un bug introduit dans la version précédente",
+    "• Améliorations structurelles\n",
+    "v1.1.3 / v1.1.2",
+    "• Ajout du formulaire Décompte de stage (MTS)",
+    "• Correction d'un bug empêchant la recherche automatique de mise à jour",
+    "• Corrections mineures\n",
     "Profitez-bien de la dernière version de votre raccourci préféré !"
   ]
 }

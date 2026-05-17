@@ -1,13 +1,8 @@
 {
-  "version": "1.1.40",
-  "url": "https://dub.sh/ppro114",
+  "version": "1.1.50",
+  "url": "https://dub.sh/ppro115",
   "changelog": [
-    "• Correction d'un bug introduit dans la version précédente",
-    "• Améliorations structurelles\n",
-    "v1.1.3 / v1.1.2",
-    "• Ajout du formulaire Décompte de stage (MTS)",
-    "• Correction d'un bug empêchant la recherche automatique de mise à jour",
-    "• Corrections mineures\n",
+    "• Ajout du document “Codes de pointage”\n",
     "Profitez-bien de la dernière version de votre raccourci préféré !"
   ]
 }

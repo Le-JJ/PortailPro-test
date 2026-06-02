@@ -1,8 +1,8 @@
 {
-  "version": "1.1.5",
-  "url": "https://dub.sh/ppro115",
+  "version": "2.00",
+  "url": "https://dub.sh/ppro20",
   "changelog": [
-    "• Ajout du document “Codes de pointage”\n",
+    "• Connexion à Synapse semi-automatique sur Safari\n",
     "Profitez-bien de la dernière version de votre raccourci préféré !"
   ]
 }

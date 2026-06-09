@@ -1,7 +1,10 @@
 {
-  "version": "2.0a",
-  "url": "https://dub.sh/ppro20a",
+  "version": "2.0b",
+  "url": "https://dub.sh/ppro20b",
   "changelog": [
+    "• Désactivation possible de la connexion à Synapse en supprimant le compte matriculaire",
+    "• Amélioration du tutoriel\n",
+    "v2.0a",
     "• Connexion à Synapse semi-automatique sur Safari\n",
     "Profitez-bien de la dernière version de votre raccourci préféré !"
   ]
